@@ -1,0 +1,35 @@
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.exe
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.deps.json
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.runtimeconfig.json
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.runtimeconfig.dev.json
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.dll
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.pdb
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.csprojAssemblyReference.cache
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.AssemblyInfoInputs.cache
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.AssemblyInfo.cs
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.csproj.CoreCompileInputs.cache
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.csproj.CopyComplete
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.dll
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.pdb
+C:\Users\Tin Trinh\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\shipdongho.com\02.FacebookSalesChannel\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.exe
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.deps.json
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.runtimeconfig.json
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.runtimeconfig.dev.json
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\FacebookUploadImages.pdb
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.pdb
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\bin\Debug\netcoreapp3.1\Selenium.WebDriver.WaitExtensions.dll
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\EC312.L21-Thiết kế hệ thống TMĐT\Deadline\FacebookUploadImages\obj\Debug\netcoreapp3.1\FacebookUploadImages.GeneratedMSBuildEditorConfig.editorconfig
